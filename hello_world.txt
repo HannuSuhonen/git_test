@@ -1,2 +1,4 @@
 First commit from terminal! 
 Hello odin
+
+Testing again from inside VSC!
